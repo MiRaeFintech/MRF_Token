@@ -1292,11 +1292,11 @@
 			]
 		},
 		"contracts/250131_4.MRFToken.sol": {
-			"keccak256": "0x4d8df9a720342fa56649dea0290655c49c5fd8bad05f7c6319607564f16d2ce1",
+			"keccak256": "0x9358f348c78604f427cb379b510bc85fc14291de08aa3fc970b90fa3c492ac58",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://a078068eeebe0c7e15e76c6edcdcbb29fb174e9b072219fd88601915e5a46073",
-				"dweb:/ipfs/QmZQkC2wo3zTi6rSbDiGa6yrs5LK4GDSsQYnNKoLhG5Hi7"
+				"bzz-raw://768963e9732e82af3b6d6825388871b190938510ba8e13b391d20ad1a907e017",
+				"dweb:/ipfs/QmS8vfMq1C3t9cujo6amLAw6gFNCjQii6jK9ecQ8WBy4vd"
 			]
 		}
 	},

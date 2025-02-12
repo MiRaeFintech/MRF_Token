@@ -15,7 +15,7 @@ contract MRFToken is ERC20, ERC20Burnable, ERC20Pausable, Ownable, ERC20Permit, 
         Ownable(initialOwner)
         ERC20Permit("MRF Token")
     {
-        _mint(msg.sender, 1000000000 * 10 ** decimals());
+        _mint(msg.sender, 2000000000 * 10 ** decimals());
     }
 
     function pause() public onlyOwner {
